@@ -18,11 +18,11 @@
 
 	<section>
 		<nav>
-			<a href="#">&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			<a href="../index.html">&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 			<br>
-			<a href="#">&nbsp;About Us&nbsp;</a>
+			<a href="../AboutUs.html">&nbsp;About Us&nbsp;</a>
 			<br>
-			<a href="#">&nbsp;Tributes&nbsp;&nbsp;&nbsp;</a>
+			<a href="../Tributes.html">&nbsp;Tributes&nbsp;&nbsp;&nbsp;</a>
 		</nav>
 		<!-- TemplateBeginEditable name="PageContent" -->
 		<article> <img alt="welcome" src="../Images/welcomebear.gif"> <br>
